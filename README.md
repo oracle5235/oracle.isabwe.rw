@@ -1,2 +1,2 @@
-# oracle.isabwe.rw
+# oracleisabwe.nss.net
 my repository
